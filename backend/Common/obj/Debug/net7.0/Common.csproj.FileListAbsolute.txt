@@ -1,0 +1,12 @@
+/Users/chris/project/LoginAndRegist/Common/bin/Debug/net7.0/Common.deps.json
+/Users/chris/project/LoginAndRegist/Common/bin/Debug/net7.0/Common.dll
+/Users/chris/project/LoginAndRegist/Common/bin/Debug/net7.0/Common.pdb
+/Users/chris/project/LoginAndRegist/Common/obj/Debug/net7.0/Common.csproj.AssemblyReference.cache
+/Users/chris/project/LoginAndRegist/Common/obj/Debug/net7.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris/project/LoginAndRegist/Common/obj/Debug/net7.0/Common.AssemblyInfoInputs.cache
+/Users/chris/project/LoginAndRegist/Common/obj/Debug/net7.0/Common.AssemblyInfo.cs
+/Users/chris/project/LoginAndRegist/Common/obj/Debug/net7.0/Common.csproj.CoreCompileInputs.cache
+/Users/chris/project/LoginAndRegist/Common/obj/Debug/net7.0/Common.dll
+/Users/chris/project/LoginAndRegist/Common/obj/Debug/net7.0/refint/Common.dll
+/Users/chris/project/LoginAndRegist/Common/obj/Debug/net7.0/Common.pdb
+/Users/chris/project/LoginAndRegist/Common/obj/Debug/net7.0/ref/Common.dll

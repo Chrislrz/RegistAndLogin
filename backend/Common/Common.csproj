@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="13.0.1" />
+      <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="9.0.0-preview.1.24081.5" />
+      <PackageReference Include="MySql.Data" Version="8.3.0" />
+      <PackageReference Include="MySqlConnector" Version="2.3.5" />
+      <PackageReference Include="SqlSugar" Version="5.1.4.142" />
+      <PackageReference Include="SqlSugarCore" Version="5.1.4.143-preview05" />
+    </ItemGroup>
+
+</Project>

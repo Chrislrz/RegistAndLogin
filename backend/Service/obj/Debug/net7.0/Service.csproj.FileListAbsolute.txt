@@ -1,0 +1,17 @@
+/Users/chris/project/LoginAndRegist/Service/bin/Debug/net7.0/Service.deps.json
+/Users/chris/project/LoginAndRegist/Service/bin/Debug/net7.0/Service.dll
+/Users/chris/project/LoginAndRegist/Service/bin/Debug/net7.0/Service.pdb
+/Users/chris/project/LoginAndRegist/Service/bin/Debug/net7.0/Common.dll
+/Users/chris/project/LoginAndRegist/Service/bin/Debug/net7.0/Table.dll
+/Users/chris/project/LoginAndRegist/Service/bin/Debug/net7.0/Common.pdb
+/Users/chris/project/LoginAndRegist/Service/bin/Debug/net7.0/Table.pdb
+/Users/chris/project/LoginAndRegist/Service/obj/Debug/net7.0/Service.csproj.AssemblyReference.cache
+/Users/chris/project/LoginAndRegist/Service/obj/Debug/net7.0/Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris/project/LoginAndRegist/Service/obj/Debug/net7.0/Service.AssemblyInfoInputs.cache
+/Users/chris/project/LoginAndRegist/Service/obj/Debug/net7.0/Service.AssemblyInfo.cs
+/Users/chris/project/LoginAndRegist/Service/obj/Debug/net7.0/Service.csproj.CoreCompileInputs.cache
+/Users/chris/project/LoginAndRegist/Service/obj/Debug/net7.0/Service.csproj.CopyComplete
+/Users/chris/project/LoginAndRegist/Service/obj/Debug/net7.0/Service.dll
+/Users/chris/project/LoginAndRegist/Service/obj/Debug/net7.0/refint/Service.dll
+/Users/chris/project/LoginAndRegist/Service/obj/Debug/net7.0/Service.pdb
+/Users/chris/project/LoginAndRegist/Service/obj/Debug/net7.0/ref/Service.dll

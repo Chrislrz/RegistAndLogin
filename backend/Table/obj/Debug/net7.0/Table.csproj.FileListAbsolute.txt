@@ -1,0 +1,12 @@
+/Users/chris/project/LoginAndRegist/Table/bin/Debug/net7.0/Table.deps.json
+/Users/chris/project/LoginAndRegist/Table/bin/Debug/net7.0/Table.dll
+/Users/chris/project/LoginAndRegist/Table/bin/Debug/net7.0/Table.pdb
+/Users/chris/project/LoginAndRegist/Table/obj/Debug/net7.0/Table.csproj.AssemblyReference.cache
+/Users/chris/project/LoginAndRegist/Table/obj/Debug/net7.0/Table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris/project/LoginAndRegist/Table/obj/Debug/net7.0/Table.AssemblyInfoInputs.cache
+/Users/chris/project/LoginAndRegist/Table/obj/Debug/net7.0/Table.AssemblyInfo.cs
+/Users/chris/project/LoginAndRegist/Table/obj/Debug/net7.0/Table.csproj.CoreCompileInputs.cache
+/Users/chris/project/LoginAndRegist/Table/obj/Debug/net7.0/Table.dll
+/Users/chris/project/LoginAndRegist/Table/obj/Debug/net7.0/refint/Table.dll
+/Users/chris/project/LoginAndRegist/Table/obj/Debug/net7.0/Table.pdb
+/Users/chris/project/LoginAndRegist/Table/obj/Debug/net7.0/ref/Table.dll
